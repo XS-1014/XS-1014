@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @XS-1014
+- 👋 Hi, I’m Siddharth
 - 👀 I’m interested in learning c++, DSA, Web Develpoment
 - 🌱 I’m currently pursuing my Btech in Copmuter Engineering
 - 💞️ I’m looking to collaborate on ...
